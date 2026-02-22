@@ -62,4 +62,4 @@ O clima em Chicago é um driver de custo. A análise estatística provou que a Z
 
 "Dados sem auditoria são apenas opiniões. Esta análise garante a base matemática para a expansão da Zuber." — André Vinagre
 
-© 2024 Projecto Zuber Chicago - Propriedade de André Vinagre.
+© 2026 Projecto Zuber Chicago - Propriedade de André Vinagre.
