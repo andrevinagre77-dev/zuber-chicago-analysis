@@ -8,7 +8,7 @@ Este repositório contém o relatório técnico e a análise estatística desenv
 
 Pode visualizar os resultados finais através do link:
 👉 Visualizar Dashboard em Produção
-(Substitua este link pelo URL gerado no seu GitHub Pages)
+
 
 🛠️ Metodologia de Auditoria (Padrão André Vinagre)
 
