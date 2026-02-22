@@ -8,7 +8,7 @@ Este repositório contém o relatório técnico e a análise estatística desenv
 
 Pode visualizar os resultados finais através do link:
 👉 Visualizar Dashboard em Produção
-
+ https://andrevinagre77-dev.github.io/zuber-chicago-analysis/
 
 🛠️ Metodologia de Auditoria (Padrão André Vinagre)
 
